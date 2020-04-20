@@ -1,0 +1,4 @@
+Automobile Detection for 'ASB (10)_manual.txt'
+20-Apr-2020 04:04:12
+03000 04000 automobile
+14000 24000 automobile
